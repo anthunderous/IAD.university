@@ -1,0 +1,300 @@
+td, th{
+ font-size: 11px;
+}
+
+form, .types{
+ display: flex;
+ flex-direction: column;
+ align-items: start;
+}
+.aqua{
+ background-color:aqua;
+}
+.aquamarine{
+ background-color:aquamarine;
+}
+
+.blue{
+ background-color:blue;
+}
+.blueviolet{
+ background-color:blueviolet;
+}
+.brown{
+ background-color:brown;
+}
+.burlywood{
+ background-color:burlywood;
+}
+.cadetblue{
+ background-color:cadetblue;
+}
+.chartreuse{
+ background-color:chartreuse;
+}
+.chocolate{
+ background-color:chocolate;
+}
+.coral{
+ background-color:coral;
+}
+.cornflowerblue{
+ background-color: cornflowerblue;
+}
+.cornsilk{
+ background-color:cornsilk;
+}
+.crimson{
+ background-color:crimson;
+}
+.cyan{
+ background-color:cyan;
+}
+.darkblue{
+ background-color:darkblue;
+}
+.darkcyan{
+ background-color:darkcyan;
+}
+.darkgoldenrod{
+ background-color: darkgoldenrod;
+}
+.darkgray{
+ background-color:darkgray;
+}
+.darkgreen{
+ background-color:darkgreen;
+}
+.darkkhaki{
+ background-color:darkkhaki;
+}
+.darkmagenta{
+ background-color:darkmagenta;
+}
+.darkolivegreen{
+ background-color:darkolivegreen;
+}
+.darkorange{
+ background-color:darkorange;
+}
+.darkorchid{
+ background-color:darkorchid;
+}
+.darkred{
+ background-color:darkred;
+}
+.darksalmon{
+ background-color:darksalmon;
+}
+.darkseagreen{
+ background-color:darkseagreen;
+}
+.darkslateblue{
+ background-color:darkslateblue;
+}
+.darkslategray{
+ background-color:darkslategray;
+}
+.darkturquoise{
+ background-color:darkturquoise;
+}
+.darkviolet{
+ background-color:darkviolet;
+}
+.deeppink{
+ background-color:deeppink;
+}
+.deepskyblue{
+ background-color:deepskyblue;
+}
+.dimgray{
+ background-color:dimgray;
+}
+.dodgerblue{
+ background-color:dodgerblue;
+}
+.firebrick{
+ background-color:firebrick;
+}
+
+.forestgreen{
+ background-color:forestgreen;
+}
+.fuchsia{
+ background-color:fuchsia;
+}
+
+
+.gold{
+ background-color:gold;
+}
+.goldenrod{
+ background-color:goldenrod;
+}
+.gray{
+ background-color:gray;
+}
+.green{
+ background-color:green;
+}
+.greenyellow{
+ background-color:greenyellow;
+}
+
+.hotpink{
+ background-color:hotpink;
+}
+.indianred{
+ background-color:indianred;
+}
+.indigo{
+ background-color:indigo;
+}
+
+.khaki{
+ background-color:khaki;
+}
+
+.lawngreen{
+ background-color:lawngreen;
+}
+
+.lightblue{
+ background-color:lightblue;
+}
+.lightcoral{
+ background-color:lightcoral;
+}
+
+.lightgreen{
+ background-color:lightgreen;
+}
+.lightpink{
+ background-color:lightpink;
+}
+.lightsalmon{
+ background-color:lightsalmon;
+}
+
+.lime{
+ background-color:lime;
+}
+.limegreen{
+ background-color:limegreen;
+}
+
+.magenta{
+ background-color:magenta;
+}
+.maroon{
+ background-color:maroon;
+}
+
+.mediumblue{
+ background-color:mediumblue;
+}
+.olive{
+ background-color:olive;
+}
+.olivedrab{
+ background-color:olivedrab;
+}
+.orange{
+ background-color:orange;
+}
+.orangered{
+ background-color:orangered;
+}
+.orchid{
+ background-color:orchid;
+}
+
+.palegreen{
+ background-color:palegreen;
+}
+
+.peachpuff{
+ background-color:peachpuff;
+}
+.peru{
+ background-color:peru;
+}
+.pink{
+ background-color:pink;
+}
+.plum{
+ background-color:plum;
+}
+
+.purple{
+ background-color:purple;
+}
+.red{
+ background-color:red;
+}
+.rosybrown{
+ background-color:rosybrown;
+}
+.royalblue{
+ background-color:royalblue;
+}
+.salmon{
+ background-color:salmon;
+}
+.sandybrown{
+ background-color:sandybrown;
+}
+.seagreen{
+ background-color:seagreen;
+}
+.sienna{
+ background-color:sienna;
+}
+.silver{
+ background-color:silver;
+}
+.skyblue{
+ background-color:skyblue;
+}
+.slateblue{
+ background-color:slateblue;
+}
+.slategray{
+ background-color:slategray;
+}
+.snow{
+ background-color:snow;
+}
+.steelblue{
+ background-color:steelblue;
+}
+.tan{
+ background-color:tan;
+}
+.teal{
+ background-color:teal;
+}
+.thistle{
+ background-color:thistle;
+}
+.tomato{
+ background-color:tomato;
+}
+.turquoise{
+ background-color:turquoise;
+}
+.violet{
+ background-color:violet;
+}
+.wheat{
+ background-color:wheat;
+}
+.white{
+ background-color:white;
+}
+.whitesmoke{
+ background-color:whitesmoke;
+}
+.yellow{
+ background-color:yellow;
+}

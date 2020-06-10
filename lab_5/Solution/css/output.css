@@ -1,0 +1,21 @@
+.output .table-title{
+  margin-top: 10px;
+  font-style: italic;
+}
+.output table {
+  margin: 0;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.output td,th{
+ border: 1px solid black;
+ padding: 5px;
+}
+.output th{
+  font-weight: normal;
+  text-align: center;
+}
+.output .corner-header{
+  font-weight: bold;
+}
